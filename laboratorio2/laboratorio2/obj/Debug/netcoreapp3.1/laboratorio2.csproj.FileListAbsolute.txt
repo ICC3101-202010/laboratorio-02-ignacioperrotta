@@ -1,0 +1,12 @@
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/bin/Debug/netcoreapp3.1/laboratorio2.deps.json
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/bin/Debug/netcoreapp3.1/laboratorio2.runtimeconfig.json
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/bin/Debug/netcoreapp3.1/laboratorio2.runtimeconfig.dev.json
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/bin/Debug/netcoreapp3.1/laboratorio2.dll
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/bin/Debug/netcoreapp3.1/laboratorio2.pdb
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/obj/Debug/netcoreapp3.1/laboratorio2.csprojAssemblyReference.cache
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/obj/Debug/netcoreapp3.1/laboratorio2.csproj.CoreCompileInputs.cache
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/obj/Debug/netcoreapp3.1/laboratorio2.AssemblyInfoInputs.cache
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/obj/Debug/netcoreapp3.1/laboratorio2.AssemblyInfo.cs
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/obj/Debug/netcoreapp3.1/laboratorio2.dll
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/obj/Debug/netcoreapp3.1/laboratorio2.pdb
+/Users/ignacioperrotta/Desktop/laboratorio-02-ignacioperrotta/laboratorio2/laboratorio2/obj/Debug/netcoreapp3.1/laboratorio2.genruntimeconfig.cache

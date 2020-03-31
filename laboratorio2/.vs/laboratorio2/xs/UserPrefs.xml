@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{19B8E4C7-C1F4-459C-A114-E97AF897258B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="laboratorio2/Playlist.cs">
+    <Files>
+      <File FileName="laboratorio2/Program.cs" Line="1" Column="1" />
+      <File FileName="laboratorio2/Cancion.cs" Line="1" Column="1" />
+      <File FileName="laboratorio2/Espotifai2.cs" Line="1" Column="1" />
+      <File FileName="laboratorio2/Playlist.cs" Line="1" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="laboratorio2" expanded="True">
+            <Node name="laboratorio2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.laboratorio2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
